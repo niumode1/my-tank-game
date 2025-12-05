@@ -67,5 +67,6 @@ python src/main.py
 WASD：控制坦克 8 方向移动（支持斜向）
 空格键：发射子弹
 关闭窗口：ESC 键 / 点击窗口关闭按钮
+
 版权信息
 Copyright (c) 2025 Xiao shouzheng, Xiong yuebing根据 MIT 许可证，允许自由使用、修改、分发本项目，但需保留原始版权声明与许可证文本。本项目仅用于学习交流，禁止未经授权的商用侵权行为。
