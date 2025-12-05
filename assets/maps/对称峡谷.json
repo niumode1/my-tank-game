@@ -1,0 +1,25 @@
+{
+    "name": "对称峡谷",
+    "description": "左右完全对称的峡谷布局，公平竞技",
+    "obstacles": [
+        {"x": -10, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 800, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 0, "y": -10, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 0, "y": 600, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 375, "y": 0, "width": 50, "height": 600, "color": [100, 100, 100]},
+        {"x": 100, "y": 150, "width": 150, "height": 50, "color": [100, 100, 100]},
+        {"x": 500, "y": 150, "width": 150, "height": 50, "color": [100, 100, 100]},
+        {"x": 100, "y": 400, "width": 150, "height": 50, "color": [100, 100, 100]},
+        {"x": 500, "y": 400, "width": 150, "height": 50, "color": [100, 100, 100]}
+    ],
+    "destroyable_obstacles": [
+        {"x": 150, "y": 250, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 600, "y": 250, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 150, "y": 350, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 600, "y": 350, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 250, "y": 100, "width": 50, "height": 40, "color": [0, 200, 0]},
+        {"x": 500, "y": 100, "width": 50, "height": 40, "color": [0, 200, 0]},
+        {"x": 250, "y": 500, "width": 50, "height": 40, "color": [0, 200, 0]},
+        {"x": 500, "y": 500, "width": 50, "height": 40, "color": [0, 200, 0]}
+    ]
+}

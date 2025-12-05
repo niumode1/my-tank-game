@@ -1,0 +1,23 @@
+{
+    "name": "迷宫回廊",
+    "description": "曲折通道，适合伏击战术",
+    "obstacles": [
+        {"x": -10, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 800, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 0, "y": -10, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 0, "y": 600, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 200, "y": 100, "width": 50, "height": 400, "color": [100, 100, 100]},
+        {"x": 600, "y": 100, "width": 50, "height": 400, "color": [100, 100, 100]},
+        {"x": 250, "y": 250, "width": 350, "height": 50, "color": [100, 100, 100]},
+        {"x": 250, "y": 350, "width": 350, "height": 50, "color": [100, 100, 100]}
+    ],
+    "destroyable_obstacles": [
+        {"x": 300, "y": 150, "width": 40, "height": 40, "color": [0, 200, 0]},
+        {"x": 450, "y": 150, "width": 40, "height": 40, "color": [0, 200, 0]},
+        {"x": 550, "y": 150, "width": 40, "height": 40, "color": [0, 200, 0]},
+        {"x": 300, "y": 450, "width": 40, "height": 40, "color": [0, 200, 0]},
+        {"x": 450, "y": 450, "width": 40, "height": 40, "color": [0, 200, 0]},
+        {"x": 300, "y": 300, "width": 40, "height": 40, "color": [0, 200, 0]},
+        {"x": 550, "y": 300, "width": 40, "height": 40, "color": [0, 200, 0]}
+    ]
+}

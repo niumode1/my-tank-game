@@ -1,0 +1,22 @@
+{
+    "name": "闪电通道",
+    "description": "Z字形通道，适合快速突袭",
+    "obstacles": [
+        {"x": -10, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 800, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 0, "y": -10, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 0, "y": 600, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 200, "y": 100, "width": 400, "height": 50, "color": [100, 100, 100]},
+        {"x": 600, "y": 100, "width": 50, "height": 300, "color": [100, 100, 100]},
+        {"x": 200, "y": 400, "width": 400, "height": 50, "color": [100, 100, 100]},
+        {"x": 200, "y": 100, "width": 50, "height": 300, "color": [100, 100, 100]}
+    ],
+    "destroyable_obstacles": [
+        {"x": 300, "y": 200, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 450, "y": 200, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 550, "y": 200, "width": 40, "height": 40, "color": [0, 200, 0]},
+        {"x": 300, "y": 300, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 450, "y": 300, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 250, "y": 300, "width": 40, "height": 40, "color": [0, 200, 0]}
+    ]
+}

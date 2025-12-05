@@ -1,0 +1,21 @@
+{
+    "name": "峡谷战场",
+    "description": "两侧高墙，中间狭窄通道",
+    "obstacles": [
+        {"x": -10, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 800, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 0, "y": -10, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 0, "y": 600, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 150, "y": 100, "width": 50, "height": 400, "color": [100, 100, 100]},
+        {"x": 600, "y": 100, "width": 50, "height": 400, "color": [100, 100, 100]}
+    ],
+    "destroyable_obstacles": [
+        {"x": 250, "y": 150, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 500, "y": 150, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 250, "y": 300, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 500, "y": 300, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 250, "y": 450, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 500, "y": 450, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 375, "y": 225, "width": 50, "height": 50, "color": [0, 200, 0]}
+    ]
+}

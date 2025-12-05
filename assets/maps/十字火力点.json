@@ -1,0 +1,22 @@
+{
+    "name": "十字火力点",
+    "description": "中央十字交叉火力区，四周掩护充足",
+    "obstacles": [
+        {"x": -10, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 800, "y": 0, "width": 10, "height": 600, "color": [100, 100, 100]},
+        {"x": 0, "y": -10, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 0, "y": 600, "width": 800, "height": 10, "color": [100, 100, 100]},
+        {"x": 375, "y": 150, "width": 50, "height": 300, "color": [100, 100, 100]},
+        {"x": 200, "y": 275, "width": 400, "height": 50, "color": [100, 100, 100]}
+    ],
+    "destroyable_obstacles": [
+        {"x": 150, "y": 100, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 600, "y": 100, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 150, "y": 450, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 600, "y": 450, "width": 50, "height": 50, "color": [0, 200, 0]},
+        {"x": 300, "y": 100, "width": 50, "height": 40, "color": [0, 200, 0]},
+        {"x": 450, "y": 100, "width": 50, "height": 40, "color": [0, 200, 0]},
+        {"x": 300, "y": 450, "width": 50, "height": 40, "color": [0, 200, 0]},
+        {"x": 450, "y": 450, "width": 50, "height": 40, "color": [0, 200, 0]}
+    ]
+}
