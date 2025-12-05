@@ -9,6 +9,7 @@ Copyright (c) 2025 Xiao shouzheng, Xiong yuebing
 完整许可证文本见仓库根目录 `LICENSE` 文件，使用本项目需遵守许可证相关条款。
 
 ## 项目结构
+```
 tank_war/
 ├── assets/
 │   ├── images/       # 游戏图片资源（坦克、地图、掩体等）
@@ -24,6 +25,7 @@ tank_war/
 ├── requirements.txt  # 项目依赖
 ├── LICENSE           # MIT开源许可证（含完整版权声明）
 └── README.md         # 项目说明文档
+```
 
 ## 新增功能
 1. **可破坏掩体**：子弹击中绿色掩体后掩体消失，碰撞检测精准
